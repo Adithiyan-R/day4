@@ -1,4 +1,7 @@
 package com.capgemini.day4;
+
+//duplicate elements in the array
+
 import java.util.Scanner;
 public class duplicateValue {
 
@@ -30,7 +33,6 @@ public class duplicateValue {
 			if(flag==1)
 			{
 				System.out.println(arr[i]+" is duplicated "+count+" times");
-				return;
 			}
 		}
 	}

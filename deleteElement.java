@@ -1,4 +1,7 @@
 package com.capgemini.day4;
+
+//delete an element in the array
+
 import java.util.Scanner;
 public class deleteElement {
 
